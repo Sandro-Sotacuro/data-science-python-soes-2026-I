@@ -6,3 +6,9 @@ This is a course in data science with python at UP.
 2. Pabel Torres
 3. Mateo Flores
 4. Dante Vargas
+
+# Movies
+1. Divergente
+2. Avatar
+3. Virus
+4. Spiderman
