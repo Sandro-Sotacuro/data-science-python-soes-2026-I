@@ -28,3 +28,5 @@ This is a course in data science with python at UP.
 # Football teams
 1. Alianza Lima
 2. Sport Boys
+3. Cristal
+4. Universitario
