@@ -18,3 +18,9 @@ This is a course in data science with python at UP.
 2. Football
 3. Hockey
 4. Swimming
+
+# Districts
+1. La Victoria
+2. Miraflores
+3. San Isidro
+4. San Miguel
